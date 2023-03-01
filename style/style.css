@@ -2,6 +2,25 @@ body {
 	background-color: #808080;
 }
 
+.logo {
+	height: 55px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-radius: 50%;
+
+}
+
+.logoBackground{
+	border-radius: 50%;
+	background-color: #CB4544;	
+	padding: 8px;
+}
+
+
 h2 {
 	color: #001AF5;
 }
@@ -19,17 +38,23 @@ h2 {
 }
 
 .btn1 {
-	background-color: #F7F9F9;
+	background-color: #CB4544;
 	font-size: 1.5rem;
-	padding: 0.2rem;
+	padding: 0.4rem;
 	border-radius: 0.2rem;
+	border-color: #CB4544;
 }
 
 .btn2 {
 	background-color: #F7F9F9;
 	font-size: 1.5rem;
-	padding: 0.2rem;
+	padding: 0.4rem;
 	border-radius: 0.2rem;
+	border-color: #CB4544;
+}
+
+.btn2 > a {
+	color: #CB4544;
 }
 
 .partie2 {
@@ -62,8 +87,9 @@ h2 {
 	background-color: white;
 }
 
-.imagePartie3 {
+.videoPartie3 {
 	width: 40vw;
+	height: 22.5vw;
 }
 
 .eltPartie3 {
