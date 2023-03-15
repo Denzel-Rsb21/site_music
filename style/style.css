@@ -43,6 +43,7 @@ h2 {
 	padding: 0.4rem;
 	border-radius: 0.2rem;
 	border-color: #CB4544;
+	cursor: pointer;
 }
 
 .btn2 {
@@ -51,6 +52,8 @@ h2 {
 	padding: 0.4rem;
 	border-radius: 0.2rem;
 	border-color: #CB4544;
+	cursor: pointer;
+	cursor: ;
 }
 
 .btn2 > a {
@@ -94,13 +97,7 @@ h2 {
 
 .eltPartie3 {
 	width: 40vw;
-	background-color: pink;
 }
 
-.partie4 {
-	display: flex;
-	justify-content: space-between;
-	margin: 0 5vw;
-	align-items: center;
-	background-color: green;
-}
+
+

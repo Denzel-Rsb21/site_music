@@ -1,0 +1,24 @@
+#containerRap {
+display: flex;
+flex-direction: column;
+gap: 50px;
+margin-top: 70px;
+}
+
+.rap {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 5vw;
+	align-items: center;
+	background-color: #FFFFFF;
+}
+
+.eltRap {
+    width: 40vw;
+}
+
+.videoRap {
+	width: 40vw;
+	height: 22.5vw;
+}
+
