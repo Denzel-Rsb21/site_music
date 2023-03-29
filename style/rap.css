@@ -1,8 +1,8 @@
 #containerRap {
-display: flex;
-flex-direction: column;
-gap: 50px;
-margin-top: 70px;
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+	margin-top: 70px;
 }
 
 .rap {
@@ -14,11 +14,13 @@ margin-top: 70px;
 }
 
 .eltRap {
-    width: 40vw;
+	width: 40vw;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .videoRap {
 	width: 40vw;
 	height: 22.5vw;
 }
-
