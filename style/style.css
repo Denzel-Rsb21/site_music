@@ -4,6 +4,7 @@ body {
 
 .logo {
 	height: 55px;
+
 }
 
 nav {
@@ -14,15 +15,20 @@ nav {
 
 }
 
-.logoBackground{
+.logoBackground {
 	border-radius: 50%;
-	background-color: #CB4544;	
+	background-color: #CB4544;
 	padding: 8px;
 }
 
 
 h2 {
 	color: #001AF5;
+}
+
+.titrePage {
+	color: #001AF5;
+	text-decoration: underline;
 }
 
 .partie1 {
@@ -46,6 +52,10 @@ h2 {
 	cursor: pointer;
 }
 
+.btn1:hover {
+	background-color: #cb444467;
+}
+
 .btn2 {
 	background-color: #100000;
 	font-size: 1.5rem;
@@ -53,10 +63,10 @@ h2 {
 	border-radius: 0.2rem;
 	border-color: #CB4544;
 	cursor: pointer;
-	cursor: ;
+
 }
 
-.btn2 > a {
+.btn2>a {
 	color: #CB4544;
 }
 
@@ -99,5 +109,24 @@ h2 {
 	width: 40vw;
 }
 
+.btnActive {
+	background-color: #FFFFFF;
+	font-size: 1.5rem;
+	padding: 0.4rem;
+	border-radius: 0.2rem;
+	border-color: #FFFFFF;
+	cursor: pointer;
+}
 
+footer {
+	display: flex;
+	justify-content: center;
+	background-color: darkgray;
+	margin-top: 0.5vw;
+}
 
+footer>a {
+	color: #100000;
+	text-decoration: none;
+
+}
