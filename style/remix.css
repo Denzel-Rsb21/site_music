@@ -1,0 +1,26 @@
+.remixPartie1 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.imageRemix1 {
+    width: 55vw;
+
+}
+
+.remixPartie2 {
+    display: flex;
+}
+
+.remix {
+    height: 500px;
+}
+
+.imageRemix2 {
+    height: 100%;
+}
+
+.videoRap {
+    height: 100%;
+}
