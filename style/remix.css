@@ -11,16 +11,22 @@
 
 .remixPartie2 {
     display: flex;
+    margin: 4vw 5vw 3vw 5vw;
 }
 
 .remix {
-    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFFFFF;
 }
 
 .imageRemix2 {
-    height: 100%;
+    height: 285px;
+    width: 507px;
 }
 
-.videoRap {
-    height: 100%;
+.videoRemix {
+    width: 556.7px;
+    height: 285px;
 }
