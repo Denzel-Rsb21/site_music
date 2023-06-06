@@ -1,0 +1,6 @@
+while= tant que 
+for= pour
+
+pour céer la fonction displayTime contenant le script existant 
+appeler la fonction display time toutes les secondes a l'aides de setInterval
+ getcheckout_b

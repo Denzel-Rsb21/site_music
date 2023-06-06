@@ -30,3 +30,11 @@
     width: 556.7px;
     height: 285px;
 }
+
+.go {
+    color: green;
+}
+
+.stop {
+    color: red;
+}
